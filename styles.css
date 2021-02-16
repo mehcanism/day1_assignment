@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+    background-image: url('bug.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+.quoteClass {
+    font-family: 'Tahoma';
+    height: 600;
+    width: 1500;
+    background-color: palevioletred;
+    border-style: double;
+    border-color: palevioletred;
+    border-width: thick;
+    margin: auto;
+    position: static;
+    align-items: center;
+}
+
+.mineClass {
+    font-family: 'Tahoma';
+    height: 100;
+    width: 1500;
+    background-color: palevioletred;
+    border-style: double;
+    border-color: palevioletred;
+    border-width: thick;
+    margin: auto;
+    position: static;
+    align-items: center;
+}
+
+.sourceClass {
+    font-family: 'Tahoma';
+    color: palevioletred;
+    height: 100;
+    width: 1500;
+    background-color: transparent;
+    border-width: thick;
+    margin: auto;
+    position: static;
+    align-items: center;
+}
+
+.divBreak {
+    font-family: 'Tahoma';
+    height: 10;
+    width: 1500;
+    background-color: transparent;
+}
+
+h1 {
+    color: black;
+    font-size: 90px;
+}
+
+p {
+    font-size: 30px;
+}
+
+#spanId {
+    font-family: 'Tahoma';
+    font-size: large;
+    margin: 50px;
+}
