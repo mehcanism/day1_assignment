@@ -9,7 +9,7 @@ body {
     align-items: center;
 }
 .quoteClass {
-    font-family: 'Tahoma';
+    font-family: 'Consolas';
     height: 600;
     width: 1500;
     background-color: palevioletred;
@@ -22,7 +22,7 @@ body {
 }
 
 .mineClass {
-    font-family: 'Tahoma';
+    font-family: 'Consolas';
     height: 100;
     width: 1500;
     background-color: palevioletred;
@@ -35,7 +35,7 @@ body {
 }
 
 .sourceClass {
-    font-family: 'Tahoma';
+    font-family: 'Consolas';
     color: palevioletred;
     height: 100;
     width: 1500;
